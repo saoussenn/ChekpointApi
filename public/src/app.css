@@ -1,0 +1,27 @@
+*{
+  margin:0;
+  padding: 0;
+  box-sizing:border-box;
+  background-color:lightgray;
+
+}
+
+
+.App {
+  text-align: center;
+}
+
+.container{
+  display: flex;
+  justify-content: start;
+  padding-top:80px;
+  gap: 80px;
+  flex-wrap: wrap;
+  padding-left:50px;
+}
+.containerIn{
+  border: thick double #32a1ce;
+  width:220px;
+  height:180px;
+}
+Footer
